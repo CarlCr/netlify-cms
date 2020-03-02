@@ -1,5 +1,5 @@
 ---
-title: Start with a Template
+title: Testando o netlifycms
 group: start
 weight: 10
 ---
